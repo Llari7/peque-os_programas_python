@@ -1,2 +1,2 @@
-# peque-os_programas_python
-Pequeños programas propio de inciación en Python
+# pequenios_programas_python
+Pequeños programas propios de inciación en Python
